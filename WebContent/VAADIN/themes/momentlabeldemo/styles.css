@@ -1,0 +1,19 @@
+@import url(../reindeer/styles.css);
+
+pre {
+	padding: 15px 10px;
+	background: #000;
+	color: #f4f4f4;
+	font-family: Monaco, monospace;
+	font-size: 12px;
+	display: block;
+	width: 506px; 
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.v-momentlabel {
+	font-size: 140%;
+	margin-bottom: 20px;
+}
